@@ -1,2 +1,2 @@
 # smb2
-Implementation of server-side SMB2/3 protocol in Go
+Server-side implementation of SMB2/3 protocol in Go
